@@ -1,0 +1,1 @@
+[{"id":"f585e283.67a27","type":"function","z":"dd7caf01.d4eae","name":"","func":"msg.payload = { 'd' : { 'random' : msg.payload }};\nreturn msg;","outputs":1,"noerr":0,"x":570,"y":120,"wires":[["dcf071c7.71cf9","57faddbd.9da694"]]}]
